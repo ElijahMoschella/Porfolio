@@ -2,6 +2,7 @@
   * {
     box-sizing: border-box;
 }
+html{background-color: black;}
 /* padding for whole body */
 body {
     padding: 15px;
